@@ -550,4 +550,4 @@ if run_button:
 
 # Footer
 st.markdown("---")
-st.caption("Vision RAG with Cohere Embed-4 | Built with Streamlit, Cohere Embed-4, and Google Gemini 2.5 Flash")
+st.caption("Vision RAG with Cohere Embed-4 | Built with Streamlit, Cohere Embed-4, and Google Gemini 2.0 Flash")
