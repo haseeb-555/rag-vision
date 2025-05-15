@@ -98,11 +98,11 @@ See `requirements.txt` for full list.
 
 ## 📝 License
 
-MIT © 2025 \[Your Name]
+MIT © 2025 \[haseeb-555]
 
 ```
 
 ---
 
-Let me know if you want to add screenshots, deployment instructions (e.g. Streamlit Cloud or Hugging Face Spaces), or usage examples.
+
 ```
